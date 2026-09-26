@@ -66,14 +66,6 @@ An AI-shared knowledge vault, co-authored with my AI collaborator Mino. Bridges 
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugogu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</p>
-
----
-
 ## 💬 Find Me
 
 <p>
