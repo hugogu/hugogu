@@ -2,7 +2,7 @@
 
 # Hi, I'm Hugo 👋
 
-**Full-stack builder.** 13 years in payment systems (Airwallex, Payful, Wallra, iPayLinks, Morgan Stanley) before I started shipping my own OSS. Today I mostly write TypeScript, Go, and Python — and AI is just another tool I use to ship faster, not the reason I build.
+**Full-stack builder.** 13 years in payment systems (Airwallex, Payful, USeePay, iPayLinks, Morgan Stanley) before I started shipping my own OSS. Today I mostly write TypeScript, Go, and Python — and AI is just another tool I use to ship faster, not the reason I build.
 
 [![orbits.observer](https://img.shields.io/badge/orbits.observer-☀️_live-1e90ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://orbits.observer)
 [![kb.hugogu.cn](https://img.shields.io/badge/kb.hugogu.cn-📚_live-1e90ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kb.hugogu.cn)
